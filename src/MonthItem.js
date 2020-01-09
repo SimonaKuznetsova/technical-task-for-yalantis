@@ -15,12 +15,6 @@ export default class MonthItem extends Component {
         this.props.usersList.length >= 11
     });
 
-    // const usersList = this.props.usersList.map(user => {
-    //     const userName = user.firstName + ' ' + user.lastName;
-    //     return <li>{userName}</li>
-    //   }
-    // )
-
     return (
       <div className='users-list'>
         <li className={itemClassName}>

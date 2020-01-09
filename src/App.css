@@ -53,22 +53,18 @@ body {
 }
 
 .users-list:nth-child(9) .users-list__item {
-  /* bottom: 190px; */
   bottom: 10px;
 }
 
 .users-list:nth-child(10) .users-list__item {
-  /* bottom: 137px; */
   bottom: 10px;
 }
 
 .users-list:nth-child(11) .users-list__item {
-  /* bottom: 85px; */
   bottom: 10px;
 }
 
 .users-list:nth-child(12) .users-list__item {
-  /* bottom:30px; */
     bottom: 10px;
 }
 
